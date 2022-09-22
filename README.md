@@ -12,7 +12,7 @@ This repository includes Decision Transformer, Conservative Q-Learning, and Beha
   - [x] Behavior Cloning (BC)
   - [x] Decision Transformer
   - [ ] GPT-2
-  - [ ] Conseravtive Q-Learning (CQL)
+  - [x] Conseravtive Q-Learning (CQL)
   
 ## Experiments
 ### HalfCheetah-v3 Environment
@@ -58,6 +58,7 @@ https://user-images.githubusercontent.com/33734646/190911220-72eb4bf6-43c6-4aef-
 ## References
 
 1. Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, Igor Mordatch. Decision Transformer: Reinforcement Learning via Sequence Modeling. CoRR (2021). [ArXiv](https://arxiv.org/abs/2106.01345)
-2. Aviral Kumar1, Aurick Zhou1, George Tucker2, Sergey Levine. Conservative Q-Learning for Offline Reinforcement Learning. [ArXiv](https://arxiv.org/abs/2006.04779)
+2. Aviral Kumar, Aurick Zhou, George Tucker, Sergey Levine. Conservative Q-Learning for Offline Reinforcement Learning. [ArXiv](https://arxiv.org/abs/2006.04779)
 3. [Hugging Face Transformers](https://github.com/huggingface/transformers)
 4. [Edward Beeching's Gym Replays](https://huggingface.co/datasets/edbeeching/decision_transformer_gym_replay)
+5. [CleanRL](https://github.com/vwxyzjn/cleanrl) and the authors' [Study Group](https://youtu.be/AjudkPZKIr4)
