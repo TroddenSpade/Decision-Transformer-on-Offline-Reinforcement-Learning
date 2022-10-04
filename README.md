@@ -12,6 +12,7 @@ This repository includes Decision Transformer, Conservative Q-Learning, and Beha
   - [x] Behavior Cloning (BC)
   - [x] Decision Transformer
   - [ ] GPT-2
+  - [x] Soft Actor-Critic (SAC)
   - [x] Conseravtive Q-Learning (CQL)
   
 ## Experiments
@@ -21,25 +22,36 @@ This repository includes Decision Transformer, Conservative Q-Learning, and Beha
 
 https://user-images.githubusercontent.com/33734646/190910946-5e885c8e-cb0d-4e0f-8f1c-0940305a6971.mp4
 
+* Conservative Q-Learning
+
+Trained the model for 1M iterations and for each iteration a batch of 256 rollouts were sampled.
+
+![HC-CQL](https://github.com/TroddenSpade/Decision-Transformer-on-Offline-Reinforcement-Learning/blob/main/assets/HC-CQL.png?raw=true)
+
+https://user-images.githubusercontent.com/33734646/193818250-0f772f50-7801-47b3-bf46-d5025961b71a.mp4
+
 * Decision Transformer
 
 https://user-images.githubusercontent.com/33734646/190910960-275cdfc8-5669-4413-9d6d-bb1a3bf03012.mp4
-
 
 
 ### Hopper-v2 Environment
 
 * Behavior Cloning
 
-
 https://user-images.githubusercontent.com/33734646/190911324-19f988e3-a565-4941-afac-98038dda0057.mp4
 
+* Conservative Q-Learning
+
+Trained the model for 1M iterations and for each iteration a batch of 256 rollouts were sampled.
+
+![H-CQL](https://github.com/TroddenSpade/Decision-Transformer-on-Offline-Reinforcement-Learning/blob/main/assets/H-CQL.png?raw=true)
+
+https://user-images.githubusercontent.com/33734646/193813226-6a9ffff7-918c-45fc-bec3-9258396c2278.mp4
 
 * Decision Transformer
 
-
 https://user-images.githubusercontent.com/33734646/190912391-68f80548-8825-4526-9473-24d41c0be286.mp4
-
 
 
 ### Walker-v2 Environment
@@ -48,8 +60,19 @@ https://user-images.githubusercontent.com/33734646/190912391-68f80548-8825-4526-
 
 https://user-images.githubusercontent.com/33734646/190911092-ecd330f5-d71f-44f4-8b59-bc3bbe465f4f.mp4
 
-* Decision Transformer
+* Conservative Q-Learning
 
+Trained the model for 1M iterations and for each iteration a batch of 256 rollouts were sampled.
+
+![W-CQL](https://github.com/TroddenSpade/Decision-Transformer-on-Offline-Reinforcement-Learning/blob/main/assets/W-CQL.png?raw=true)
+
+
+
+Uploading W-CQL.mp4…
+
+
+
+* Decision Transformer
 
 https://user-images.githubusercontent.com/33734646/190911220-72eb4bf6-43c6-4aef-af65-3d9cda0882de.mp4
 
