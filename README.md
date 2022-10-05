@@ -67,6 +67,7 @@ Trained the model for 1M iterations and for each iteration a batch of 256 rollou
 
 ![W-CQL](https://github.com/TroddenSpade/Decision-Transformer-on-Offline-Reinforcement-Learning/blob/main/assets/W-CQL.png?raw=true)
 
+https://user-images.githubusercontent.com/33734646/194069972-0080de45-14a9-44be-aac5-d1b804f30d6c.mp4
 
 #### Decision Transformer
 
